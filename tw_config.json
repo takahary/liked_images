@@ -1,0 +1,5 @@
+{
+    "twitter_id": "<twitter idを記載>",
+    "bearer_token": "<bearer tokenを記載>",
+    "save_dir": "<画像保管フォルダを記載　例-> ./temp_pic/ >"
+}
